@@ -5,7 +5,7 @@ I thought this would be useful to anyone using the Amazon MWS API. This is most 
 for products on Amazon. 
 
 In order to run, you must have boto installed, and it must be version 2. To do so, run $ pip install boto from
-your command line. You must also have jinja2 installed, which can be installed by running $ pip install jinja2.
+your command line. 
 
 This will return a Feed Submission ID, which you can use to retrieve the feed submission result.
 
